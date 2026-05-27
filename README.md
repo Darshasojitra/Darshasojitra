@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 I'm currently working on: MERN stack projects and AI/ML learning<br>🤝 I'm looking to collaborate on: Web development and full-stack projects<br>🧠 I'm looking for help with: Advanced AI/ML concepts and real-world project architecture<br>🌱 I'm currently learning: React, Node.js, SQL, and machine learning<br>💬 Ask me about: Java, JavaScript, full-stack development, and project building<br>⚡ Fun fact: I enjoy turning ideas into practical applications<br>More polished version.
+🚀 I'm currently working on: MERN stack projects and AI/ML learning<br>🤝 I'm looking to collaborate on: Web development and full-stack projects<br>🧠 I'm looking for help with: Advanced AI/ML concepts and real-world project architecture<br>🌱 I'm currently learning: React, Node.js, SQL, and machine learning<br>💬 Ask me about: Java, JavaScript, full-stack development, and project building<br>⚡ Fun fact: I enjoy turning ideas into practical applications.<br>
 
 
 ## 🌐 Socials:
